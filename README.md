@@ -9,4 +9,4 @@ We reran the benchmarks based including the latest commits to storm. More inform
 
 ## Models
 
-We are extending the models with some comments and will make them available soon.
+The models are available in the examples folder.
