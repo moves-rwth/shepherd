@@ -10,3 +10,8 @@ We reran the benchmarks based including the latest commits to storm. More inform
 ## Models
 
 The models are available in the examples folder.
+
+## Implementation
+
+The implementation is part of [PAYNT](https://github.com/randriu/synthesis).
+
